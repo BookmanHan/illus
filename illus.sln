@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "illus", "illus.vcproj", "{FE109026-9E0C-4CF3-84A7-7A1A428CD901}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE109026-9E0C-4CF3-84A7-7A1A428CD901}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE109026-9E0C-4CF3-84A7-7A1A428CD901}.Debug|Win32.Build.0 = Debug|Win32
+		{FE109026-9E0C-4CF3-84A7-7A1A428CD901}.Release|Win32.ActiveCfg = Release|Win32
+		{FE109026-9E0C-4CF3-84A7-7A1A428CD901}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
